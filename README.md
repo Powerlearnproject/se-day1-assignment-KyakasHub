@@ -79,3 +79,5 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 5.Facilitates Better User Experience: Leads to more effective, efficient, and personalized interactions.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: "Tell me about technology" is too broad and lacks focus, leading to potentially overwhelming or irrelevant information.
+Improved Prompt: "Explain the impact of artificial intelligence on the healthcare industry" is specific and clearly defines the topic of interest, which helps the AI understand the exact area to address.
